@@ -1,2 +1,2 @@
-# i18n-avalonia
+# AvaloniaLocalization
 Localization package for AvaloniaUI apps
